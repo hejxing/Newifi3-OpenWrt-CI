@@ -78,6 +78,7 @@ jobs:
           CONFIG_PACKAGE_kmod-usb-core=y
           CONFIG_PACKAGE_kmod-usb3=y
           CONFIG_PACKAGE_kmod-usb-storage=y
+          CONFIG_PACKAGE_kmod-usb-printer=y
           CONFIG_PACKAGE_kmod-usb-storage-extras=y
           CONFIG_PACKAGE_automount=y
           
